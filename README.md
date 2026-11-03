@@ -46,6 +46,22 @@ Em vez de uma lista de perguntas e respostas, a FAQ repete as opções da enquet
 
 <div align="center">
 
+<img src="img/telas.png" alt="Respostas de acesso, falta de tempo e próximo curso no celular" width="720">
+
+</div>
+
+<div align="center">
+
+## Divulgação
+
+Imagem enviada na comunidade junto com o link da FAQ, no mesmo visual da página.
+
+<img src="img/divulgacao-whatsapp.png" alt="Imagem de divulgação da FAQ para o WhatsApp" width="360">
+
+</div>
+
+<div align="center">
+
 ## Meu papel
 
 </div>
@@ -84,6 +100,7 @@ index.html     estrutura da página e ilustração em SVG
 styles.css     estilos, com as cores em variáveis no :root
 faq-data.js    conteúdo: links dos botões e pares da trilha
 script.js      respostas, sugestões por tempo, par do curso e eventos
+img/           telas e imagem de divulgação usadas no README
 ```
 
 <div align="center">
