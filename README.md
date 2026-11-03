@@ -13,6 +13,8 @@ o estudante toca no que votou e recebe a dica certa.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SVG](https://img.shields.io/badge/SVG_animado-FFB13B?style=flat&logo=svg&logoColor=black)
 
+### [▶ Ver a página no ar](https://jemacieldev.github.io/faq-interativa/)
+
 <img src="docs/preview.png" alt="Prévia da página" width="720">
 
 </div>
@@ -76,7 +78,8 @@ Os botões sem link aparecem marcados como "link a definir". Para usar, preencha
 
 ## Como rodar
 
-Abra o `index.html` no navegador. Não precisa instalar nada.
+Acesse [jemacieldev.github.io/faq-interativa](https://jemacieldev.github.io/faq-interativa/)<br>
+ou abra o `index.html` no navegador. Não precisa instalar nada.
 
 <br>
 
